@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiraNamdeen
+- 👋 Hi, I’m @HiraNamdeem
 - 👀 I’m interested in doing moreand more projects related to AI, C++ and many more.
 - 🌱 I’m currently learning Digital Marketing course, I have done certified course of  Data Science With Python.  
 - 💞️ I’m looking to collaborate on having a hardworking team 
